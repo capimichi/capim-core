@@ -1,0 +1,12 @@
+{
+    "name": "michelecapicchioni/capim-core",
+    "authors": [
+        {
+            "name": "Michele Capicchioni",
+            "email": "capimichi@gmail.com"
+        }
+    ],
+    "require": {
+        "capimichi/capim-plugin-wp": "dev-master"
+    }
+}

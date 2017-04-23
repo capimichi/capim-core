@@ -1,0 +1,1 @@
+<?php return unserialize('a:1:{i:0;O:31:"CapimPluginWP\\Annotation\\Action":2:{s:4:"hook";s:4:"init";s:5:"value";N;}}');
